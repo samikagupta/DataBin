@@ -4,7 +4,7 @@ Abstract: Discretization is widely used in machine learning, for example because
 
 ## Prerequisites
 To install the package and prepare for use, run:
-<pre><code>git clone https://github.com/samikagupta/DataBin.git
+<pre><code>git clone https://github.com/<githubaccount>/DataBin.git
 
 pip install -r requirements.txt
 </code></pre>
