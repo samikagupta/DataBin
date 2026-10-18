@@ -21,6 +21,8 @@ share of the rows.
 
     cuts = fair_bin(train, target="income", column="age", k=10, seed=0)
     data["age"] = apply_bins(data["age"], cuts)
+
+Code was re-organized using Claude for one cohesive py file.
 """
 from statistics import NormalDist
 
