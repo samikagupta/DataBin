@@ -1,4 +1,8 @@
 """
+
+Built with the assistance of Claude for the sake of better formatting for the paper 
+results. 
+
 The A1 figure: per-bin test misclassification under each binning.
 
 binning_panels and the style are copied from New_Experiments/motivating/figures.py;
